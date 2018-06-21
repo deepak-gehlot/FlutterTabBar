@@ -2,6 +2,8 @@
 
 This is flutter tab bar complete example reposority.
 
+<img src="https://github.com/deepak-gehlot/FlutterTabBar/blob/master/screenshots/device-2018-06-21-195340.png" width="200">       <img src="https://github.com/deepak-gehlot/FlutterTabBar/blob/master/screenshots/device-2018-06-21-195539.png" width="200">    <img src="https://github.com/deepak-gehlot/FlutterTabBar/blob/master/screenshots/device-2018-06-21-195552.png" width="200">
+
 For tab bar you need to follow these steps
 
 1) create DefaultTabController as root layout
